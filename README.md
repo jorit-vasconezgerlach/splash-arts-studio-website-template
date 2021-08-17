@@ -1,1 +1,1 @@
-# splash-arts-studio-website-template
+# Splash Arts Studio Website Template
